@@ -31,7 +31,7 @@ fn main() {
                                      "Eleven pipers piping", 
                                      "Twelve drummers drumming"];
 
-    //let mut lyrics = String::from("Twelve Days Of Christmas\n\n\n");
+    
     println!("Twelve Days Of Christmas\n\n\n");
 
     for i in 0..=11 {
